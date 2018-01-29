@@ -5,5 +5,5 @@
 
 - 图片
 ```
-![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
+![图片说明](http://www.xxx.com/logo.png)
 ```
